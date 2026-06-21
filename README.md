@@ -44,6 +44,10 @@ Going to the Settngs > Users tab will allow you to edit the settings for users o
 <p align="center"><img src="https://github.com/JakeMandeville/course-pictures/blob/main/OSTicket/users%20settings.png"></p>
 Back in the Agents tab you can add new agents to work on tickets.
 <p align="center"><img src="https://github.com/JakeMandeville/course-pictures/blob/main/OSTicket/Creating%20agents.png"></p>
-Even though we allowed anyone to create tickets without having to register we can still set users in the system.
+Even though we allowed anyone to create tickets without having to register we can still set users in the system, for this you will need to go from the Admin Panel into the Agent Panel, using the Users tab you can add more users.
 <p align="center"><img src="https://github.com/JakeMandeville/course-pictures/blob/main/OSTicket/Add%20users.png"></p>
+Set the SLA (Service Level Agreement) to help set how priorities of tickets should be managed depending on how severe the issue is, this is done back in the Admin panel, go to the Manage > SLA tabs.
+<p align="center"><img src="https://github.com/JakeMandeville/course-pictures/blob/main/OSTicket/Add%20SLA.png"></p>
+Finally, you can set up different Topics or request types from the Manage > Help Topics tab, this will help categorize issues into specific types of problems.
+<p align="center"><img src="https://github.com/JakeMandeville/course-pictures/blob/main/OSTicket/Add%20topics.png"></p>
 </p>
