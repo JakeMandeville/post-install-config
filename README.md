@@ -34,6 +34,16 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-Started the project with Setting up the available roles in osTicket,
-<img src="https://github.com/JakeMandeville/course-pictures/blob/main/OSTicket/Add%20role.png" align=center>
+Started the project with Setting up the available roles in osTicket from signing into the Admin portion of the site and navigating to Agents > Roles, This specific example is just added a role with my own name to have full access.
+<p align="center"><img src="https://github.com/JakeMandeville/course-pictures/blob/main/OSTicket/Add%20role.png"></p>
+Moved on to setting up different departments from the Agents > Departments tab, here I added a support / system admins role and a maintenance role.
+<p align="center"><img src="https://github.com/JakeMandeville/course-pictures/blob/main/OSTicket/Create%20department.png"></p>
+From here navigating to the Agents > Teams tabs would allow more teams to be added to the ticketing system so you can further organize who is responsible for which tickets, here is an example for adding a team for an online banking team.
+<p align="center"><img src="https://github.com/JakeMandeville/course-pictures/blob/main/OSTicket/Create%20teams.png"></p>
+Going to the Settngs > Users tab will allow you to edit the settings for users of your ticketing platform, here I set it to allow anyone to create a ticket even without registering an account.
+<p align="center"><img src="https://github.com/JakeMandeville/course-pictures/blob/main/OSTicket/users%20settings.png"></p>
+Back in the Agents tab you can add new agents to work on tickets.
+<p align="center"><img src="https://github.com/JakeMandeville/course-pictures/blob/main/OSTicket/Creating%20agents.png"></p>
+Even though we allowed anyone to create tickets without having to register we can still set users in the system.
+<p align="center"><img src="https://github.com/JakeMandeville/course-pictures/blob/main/OSTicket/Add%20users.png"></p>
 </p>
