@@ -50,4 +50,5 @@ Set the SLA (Service Level Agreement) to help set how priorities of tickets shou
 <p align="center"><img src="https://github.com/JakeMandeville/course-pictures/blob/main/OSTicket/Add%20SLA.png"></p>
 Finally, you can set up different Topics or request types from the Manage > Help Topics tab, this will help categorize issues into specific types of problems.
 <p align="center"><img src="https://github.com/JakeMandeville/course-pictures/blob/main/OSTicket/Add%20topics.png"></p>
+This can be use as a starting base that can be edited over time as needed. Going back to any of these tabs will allow you to edit any of these categories to further configure your ticket system.
 </p>
